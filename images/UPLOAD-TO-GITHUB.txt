@@ -1,0 +1,15 @@
+Your photo is HERE: images/profile.jpg
+
+To upload this folder to GitHub:
+
+1. Open your repo on GitHub
+2. Click "Add file" → "Upload files"
+3. Drag this entire "images" folder into the upload box
+   (or drag only profile.jpg — then type images/profile.jpg if asked)
+4. Also upload the updated index.html from the parent folder
+5. Click "Commit changes"
+
+Test your photo link in browser:
+https://YOUR-USERNAME.github.io/mounika-portfolio/images/profile.jpg
+
+If the photo opens in the browser, your website will show it too.
